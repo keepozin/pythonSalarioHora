@@ -9,4 +9,4 @@ Imprimir o valor/hora para o usuário:
 salario_mensal = input('Qual é seu salário mensal? (apenas números) ')
 horas_trabalhadas = input('Quantas horas você trabalha por mês? (apenas números) ')
 valor_por_hora = (int (salario_mensal) / int (horas_trabalhadas))
-print("O valor por hora que você recebe é %s reais " % (valor_por_hora))
+print("O valor por hora que você recebe é %s reais." % (valor_por_hora))
